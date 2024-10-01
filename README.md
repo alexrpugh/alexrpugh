@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Alex Pugh 👋
+
+## I graduated the University of Connecticut in 2024, having majored in Statistics and Finance.
+
+## Interests:
+
+- Financial markets 💸
+- Sports analytics 🏅
+- Data science 👨‍🔬
 
 <!--
 **alexrpugh/alexrpugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
