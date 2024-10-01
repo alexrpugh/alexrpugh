@@ -1,8 +1,8 @@
 ## Hi there, I'm Alex Pugh 👋
 
-# I graduated the University of Connecticut in 2024, having majored in Statistics and Finance.
+I graduated the University of Connecticut in 2024, having majored in Statistics and Finance.
 
-# Interests:
+### Interests:
 
 - Financial markets 💸
 - Sports analytics 🏅
