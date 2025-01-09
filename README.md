@@ -4,6 +4,7 @@ I graduated from the University of Connecticut in 2024 with two degrees, a Bache
 
 ### Interests:
 
+- Data!
 - Financial markets 💸
 - Sports analytics 🏅
 - Data science 👨‍🔬
